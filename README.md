@@ -1,4 +1,3 @@
-
 # 📊 MoodMiner - Twitter Sentiment Analysis
 
 Welcome to  **MoodMiner** , an advanced Twitter Sentiment Analysis project utilizing Natural Language Processing (NLP) techniques and a powerful Random Forest model, presented with an interactive Streamlit app.
@@ -38,7 +37,7 @@ MoodMiner is a machine learning project that analyzes Twitter data to determine 
 1. **Clone the Repository** :
 
 ```bash
-git clone https://github.com/yourusername/MoodMiner.git
+git clone https://github.com/sunnymendapara7/MoodMiner.git
 ```
 
 2. **Install Dependencies** :
