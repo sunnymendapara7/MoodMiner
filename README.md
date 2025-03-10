@@ -58,6 +58,6 @@ Contributions are welcome! Please fork the repo and submit a pull request.
 
 ## 📧 Contact
 
-For questions, feel free to reach out via mail:sunnymendapara09@gmail.com.
+For questions, feel free to reach out via : sunnymendapara09@gmail.com.
 
 Enjoy exploring Twitter sentiments with MoodMiner! 🚀😊
